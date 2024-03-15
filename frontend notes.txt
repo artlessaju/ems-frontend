@@ -1,0 +1,11 @@
+after backend creation
+
+1. API fetching
+
+-> install axios = npm i axios
+
+    -> Admin.jsx - for getting all the employee details
+           -create a function - fetchdata
+           - create a useEffect used to call function 
+         -create a useState for holding employees details
+         -display the details in the table
